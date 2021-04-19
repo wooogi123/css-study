@@ -1,0 +1,11 @@
+{
+  "name": "css-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wooogi123/css-study",
+  "author": "akalee <wooogi123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
